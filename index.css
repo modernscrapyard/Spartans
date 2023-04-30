@@ -1,0 +1,305 @@
+.logo{
+    margin-bottom: 510px;
+    
+
+    margin-left: 15px;
+    margin-top: 15px;
+    border-radius: 50px;
+    
+    
+}
+
+    .box1{
+    
+        display: flex;
+        height: 753px;
+        background: linear-gradient(rgba(39, 37, 37, 0.5), rgba(39, 37, 37, 0.5)),url(pictures/form1.gif) ; 
+        
+        
+        
+        background-size: 1550px 755px;
+        background-repeat: no-repeat;
+    
+        margin: -8px;
+    }
+    .boxm1{
+    
+        display: flex;
+        height: 753px;
+        background: linear-gradient(rgba(39, 37, 37, 0.5), rgba(39, 37, 37, 0.8)),url(pictures/marathon.jpg) ; 
+        
+        
+        
+        background-size: 1550px 755px;
+        background-repeat: no-repeat;
+    
+        margin: -8px;
+    }
+
+    .boxc1{
+    
+        display: flex;
+        height: 753px;
+        background: linear-gradient(rgba(39, 37, 37, 0.5), rgba(39, 37, 37, 0.8)),url(pictures/cycle.jpg) ; 
+        
+        
+        
+        background-size: 1550px 755px;
+        background-repeat: no-repeat;
+    
+        margin: -8px;
+    }
+
+    .boxch1{
+    
+        display: flex;
+        height: 753px;
+        background: linear-gradient(rgba(39, 37, 37, 0.8), rgba(39, 37, 37, 0.5)),url(pictures/chess.jpg) ; 
+        
+        
+        
+        background-size: 1550px 755px;
+        background-repeat: no-repeat;
+    
+        margin: -8px;
+    }
+    .boxsign1{
+    
+        
+        height: 753px;
+        background: linear-gradient(rgba(39, 37, 37, 0.8), rgba(39, 37, 37, 0.5)),url(pictures/signin.jpg) ; 
+        
+        
+        
+        background-size: 1550px 755px;
+        background-repeat: no-repeat;
+    
+        margin: -8px;
+    }
+
+
+    .boxco1{
+    
+        
+        height: 753px;
+        background: linear-gradient(rgba(39, 37, 37, 0.5), rgba(39, 37, 37, 0.5)),url(pictures/contact.jpg) ; 
+        
+        
+        
+        background-size: 1550px 755px;
+        background-repeat: no-repeat;
+    
+        margin: -8px;
+    }
+    
+
+   
+      
+      
+      
+      
+      
+      
+      
+
+
+
+
+
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    margin-left: 400px;
+    margin-top: 100px;
+    margin-bottom: 510px;
+    
+
+
+}
+.navigate{
+    margin-left:130px;
+    margin-bottom:650px;
+    
+    
+}
+.content{
+display: flex;
+margin-top: 90px;
+
+}
+.contentc{
+    margin-top: 90px;
+    
+    
+    }
+
+    
+    
+
+.words{
+    margin-top: 250px;
+    margin-left: -1400px;
+    color: white;
+    font-family: monospace; 
+    
+}
+.wordsm{
+    margin-top: 250px;
+    margin-left: -1400px;
+    color: white;
+    font-family: monospace; 
+    
+    
+}
+.wordsc{
+    margin-top: 250px;
+    margin-left: -900px;
+    color: white;
+    font-family: monospace; 
+    
+    
+}
+
+
+.pic{
+    margin-left: 80px;
+    margin-top: 80px;
+    
+    overflow: hidden;
+    }
+    img.pic{
+
+        width: 110%;
+        
+        
+        
+    }
+
+
+
+
+    img.picm{
+
+        width: 60%;
+        
+    }
+    .picm{
+        margin-left: 250px;
+        margin-top: 180px;
+        border-radius: 600px;
+    }
+
+
+
+
+
+    img.picc{
+
+        width: 450px;
+        
+    }
+    .picc{
+        margin-left: -200px ;
+        margin-top:-150px;
+        
+        
+    }
+    .picc1{
+        margin-left: -1200px ;
+        margin-bottom: -550px;
+        margin-top: 400px;
+        
+    }
+
+
+
+    img.picch{
+
+        width: 400px;
+        border-right: 2px;
+        border-radius: 100px;
+        
+    }
+    .picch{
+        margin-left: 150px;
+        margin-top: 180px;
+        margin-right: 100px;
+        
+        
+    }
+    
+    
+    
+    
+
+h1  {
+    font-size:  40px;
+}
+
+p1{
+font-family: monospace ;
+font-size: 13px;
+
+}
+
+ a{
+    text-decoration: none; 
+  color: inherit;
+}
+.quote{
+    margin-top: 650px;
+    margin-left: -600px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+form{
+    background-color: rgb(111, 128, 128);
+    margin-right: 100px ;
+    padding: 30px;
+    border-radius: 100px;
+    padding-left: 45px;
+    margin-left: 380px;
+    margin-top: 0px;
+}
+
+label{
+    color: white;
+    font-size: 1.8rem;
+    margin-left: 75px;
+
+
+}
+input{
+    border-radius: 1.5rem;
+    width: 250px;
+    height: 1.4rem;
+}
+textarea{
+    border-radius: 10px;
+    width: 250px;
+
+}
+
+button{
+    border-radius: 1.2rem ;
+    height: 50px;
+    width: 100px;
+}
+
+.wordco{
+    font-size: 1.2rem;
+    color: white;
+    margin-left: 100px;
+    margin-top: 100px;
+    background:linear-gradient(rgba(31, 78, 78, 0.3), rgba(26, 55, 55, 0.8));
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    
+}
+
+.signform{
+    margin-top: -500px;
+    margin-right: 300px;
+}
